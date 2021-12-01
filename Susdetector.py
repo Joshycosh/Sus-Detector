@@ -1,3 +1,4 @@
+#Made by Joshycosh
 import random
 import time
 result = random.randint(0,100)
